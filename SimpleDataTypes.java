@@ -9,7 +9,7 @@ public class SimpleDataTypes {
 
         String s = "First part" +
                 " Second part" +
-                " Fird part";
+                " Third part";
 
         System.out.print(s);
     }
