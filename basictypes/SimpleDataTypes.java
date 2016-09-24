@@ -1,3 +1,5 @@
+package basictypes;
+
 /**
  * Created by AG on 24.09.2016.
  */
